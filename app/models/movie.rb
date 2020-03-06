@@ -1,3 +1,2 @@
-class CreateMovies < ActiveRecord::Base
-  
-end
+class Movie < ActiveRecord::Base
+  end
